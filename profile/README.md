@@ -1,0 +1,1 @@
+<div align="center"><img src="https://raw.githubusercontent.com/sagestn/assets/main/Organization/SVG/Banner.svg" alt="Sage Station" width="100%" height="auto"></div>
